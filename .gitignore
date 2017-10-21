@@ -51,3 +51,4 @@ build-iPhoneSimulator/
 
 .DS_Store
 /cache/browser/*
+/external_bullshit/
